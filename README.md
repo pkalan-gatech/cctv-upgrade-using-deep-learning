@@ -1,5 +1,5 @@
 # Detecting Burglars And Wild Animals In CCTV Footage Using Deep Learning Models On Microcontroller Boards
-<div style="text-align: right"> - Pankaj Kalan (pkalan3@gatech.edu) </div>
+<p align="right">by Pankaj Kalan (pkalan3@gatech.edu)</p>
 
 ## Introduction
 There are two main culprits responsible for home invasions - burglars and wild animals. Provided that there is no one present at home to interfere, both of them can easily bypass the conventional prevention methods such as locked doors and fences. Conventional CCTV cameras are not helpful because they only record the crime footage that can be used later by police but does not stop the crime from happening. A better solution would be to have a device that can continuously monitor the CCTV feed and search for either of those two possible threats and take actions such as contacting homeowners, police, set off alarms, etc. Since CCTV cameras are already installed in most of the places, the focus is on designing a downstream device that can directly take the stream from CCTV as an input.
